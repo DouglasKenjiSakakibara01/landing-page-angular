@@ -2,4 +2,4 @@
 
 Projeto que implementa uma landing page utilizando conceitos do Angular 17.
 
-![Texto Alternativo](./src/assets/project-guide.png)
+![Texto Alternativo](./src/assets/landing-page.png)
